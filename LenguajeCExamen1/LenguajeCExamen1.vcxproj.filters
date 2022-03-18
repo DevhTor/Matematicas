@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Ejer0.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
     <ClCompile Include="Ejer1.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>

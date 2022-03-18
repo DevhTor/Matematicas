@@ -1,64 +1,38 @@
-
-/*
- *Programa que escriba en pantalla una tabla con cuadrados y cubos de todos
- *los números primos a partir de un número base hasta otro tope, ambos
- *pedidos por teclado.
- */
+//Ejercicio 1
+// Hacer un programa que lea caracteres desde teclado hasta que lea  7 veces la letra
+//'p'.Por cada carácter leído que no sea una 'p' debe mostrar un mensaje indicándolo.
+//Cuando lea las 7 letras 'p' el programa terminará.
 
 #include <stdio.h>
-#include <math.h>
 
- //varibles
-int numBase;
-int numTope;
 
-//funciones
-int esPrimo(int);
+char caracter;
 
-int main(int argc, char const* argv[])
+int main()
 {
-    printf("Digite numero base: ");
-    scanf_s("%d", &numBase);
+	printf("");
 
-    printf("Digite numero tope: ");
-    scanf_s("%d", &numTope);
+	int i = 0;
 
-    printf("num \t cuadrado \t cubo");
+	while (i < 7)
+	{
+		printf("\n\nEscribe una letra: ");
+		scanf_s("%c", &caracter);
+		while (getchar() != '\n');
 
-    for (int i = numBase; i <= numTope; i++)
-    {
-        if (esPrimo(i))
-        {
-            printf("\n%d \t\t %d \t\t %d", i, (int)pow((double)i, 2), (int)pow((double)i, 3));
-        }
-    }
+		if (caracter != 'p')
+		{
+			printf("%c no es una p", caracter);
+		}
+		else
+		{
+			i++;
+			printf("\nHas ingresado %d p, quedan %d.", i, 7 - i);
 
+		}
 
-    return 0;
-}
+	}
 
-int esPrimo(int num)
-{
-    int primo = 1;
-
-    for (int i = 2; i < num; i++)
-    {
-        if (num % i == 0)
-        {
-            primo = 0;
-            break;
-        }
-    }
-
-    if (primo == 1)
-    {
-        return 1;
-
-    }
-    else {
-
-        return 0;
-    }
+	return 0;
 
 }
-

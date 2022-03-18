@@ -17,10 +17,10 @@ int main()
 	while (i < 7)
 	{
 		printf("\n\nEscribe una letra: ");
-		scanf_s("%c", &caracter);
-		while (getchar() != '\n');
+		scanf_s(" %c", &caracter, 1);
+		
 
-		if (caracter != 'p')
+		if (caracter != 'p') 
 		{
 			printf("%c no es una p", caracter);
 		}

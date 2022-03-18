@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\CODIGO\Pc\C\Examen1LengC\Ejecicio0.c">
+    <ClCompile Include="Ejer1.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

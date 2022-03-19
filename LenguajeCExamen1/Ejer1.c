@@ -8,7 +8,7 @@
 
 char caracter;
 
-int main()
+int main1()
 {
 	printf("");
 
@@ -18,9 +18,9 @@ int main()
 	{
 		printf("\n\nEscribe una letra: ");
 		scanf_s(" %c", &caracter, 1);
-		
 
-		if (caracter != 'p') 
+
+		if (caracter != 'p')
 		{
 			printf("%c no es una p", caracter);
 		}

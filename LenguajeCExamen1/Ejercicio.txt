@@ -1,0 +1,37 @@
+  Escriba los dos programas en C que correspondan con los dos últimos dígitos de su matrícula.   EJEMPLO:.. matricula  10002345   le corresponde ejercicios 4 y 5.
+Deberá subir a la plataforma el fuente y una salida de ejecución (prtscr)
+
+0.Programa que escriba en pantalla una tabla con cuadrados y cubos de todos los números primos a partir de un número base hasta otro tope, ambos pedidos por teclado. 
+
+1.Hacer un programa que lea caracteres desde teclado hasta que lea  7 veces la letra 
+'p'. Por cada carácter leído que no sea una 'p' debe mostrar un mensaje indicándolo. Cuando lea las 7 letras 'p' el programa terminará.
+
+2.Escribir un programa que muestre el siguiente menú y que permita pasar
+            magnitudes de grados Celsius a grados Fahrenheit.
+
+Pasar de C. a F
+Pasar de F. a C
+Salir del programa
+
+Leer un punto (x, y) y  le de al usuario las siguientes opciones para calcular :
+(utilizando switch  -  case)
+si el punto está sobre una circunferencia de radio 7 y centro en (0,0)
+Si el punto pertenece a la recta que pasa por los puntos (1,2) y (-2,-1)
+ salir
+Hacer un programa en C para calcular la serie (neperianos)
+Serie e^x   = 1+x/1! + x^2/2! + x^3/3!.... hasta N términos
+
+Hacer un programa en C para calcular la Serie (coseno)
+Serie cos(x) = 1-x^2/2! + x^4/4!  - x^6/6!    Hasta N términos
+
+Hacer un programa C que calcule el factorial de cualquier número x introducido por 
+teclado el programa deberá terminar cuando el número digitado sea cero 0.
+
+Hacer un programa que determine, presente y calcule el promedio de todos los números primos 
+encontrados entre dos números m y n dados por teclado.
+
+Hacer un programa que dada N parejas de puntos (x,y) y (h,k) determine la distancias entre 
+estos y la pendiente formada por la recta que los une.
+
+Hacer un programa en C que datos 3 puntos (x1,y1), (x2,y2) y (x3,y3) determinar que tipo de 
+triangulo forman de acuerdo a sus lados.

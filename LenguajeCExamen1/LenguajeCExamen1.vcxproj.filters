@@ -21,5 +21,13 @@
     <ClCompile Include="Ejer1.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="Ejer2.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Ejercicio.txt">
+      <Filter>Archivos de origen</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -18,10 +18,31 @@
     <ClCompile Include="Ejer0.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Ejer1.c">
+    <ClCompile Include="Ejer2.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Ejer2.c">
+    <ClCompile Include="ejer3.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ejer4.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ejer5.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ejer6.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ejer7.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ejer8.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ejer9.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Ejer1.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

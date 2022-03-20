@@ -116,7 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <DisableSpecificWarnings>4996</DisableSpecificWarnings>
+      <DisableSpecificWarnings>4996; 6031</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -143,6 +143,13 @@
     <ClCompile Include="Ejer0.c" />
     <ClCompile Include="Ejer1.c" />
     <ClCompile Include="Ejer2.c" />
+    <ClCompile Include="ejer3.c" />
+    <ClCompile Include="ejer4.c" />
+    <ClCompile Include="ejer5.c" />
+    <ClCompile Include="ejer6.c" />
+    <ClCompile Include="ejer7.c" />
+    <ClCompile Include="ejer8.c" />
+    <ClCompile Include="ejer9.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Ejercicio.txt" />

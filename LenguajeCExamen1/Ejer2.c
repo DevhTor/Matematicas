@@ -49,7 +49,7 @@ int main2()
 		}
 		else if (opcion == 3)
 		{
-			exit(-1);
+			exit(1);
 		}
 		else
 		{

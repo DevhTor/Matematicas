@@ -1,5 +1,5 @@
-//7.Hacer un programa que determine, presente y calcule el promedio de todos los números primos
-//encontrados entre dos números m y n dados por teclado.
+//7.Hacer un programa que determine, presente y calcule el promedio de todos los nÃºmeros primos
+//encontrados entre dos nÃºmeros m y n dados por teclado.
 
 #include <stdio.h>
 

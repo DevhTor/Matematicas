@@ -1,5 +1,5 @@
 //4.Hacer un programa en C para calcular la serie(neperianos)
-//Serie e^ x = 1 + x / 1!+ x ^ 2 / 2!+ x ^ 3 / 3!....hasta N términos
+//Serie e^ x = 1 + x / 1!+ x ^ 2 / 2!+ x ^ 3 / 3!....hasta N tÃ©rminos
 
 #include <stdio.h>
 #include <math.h>

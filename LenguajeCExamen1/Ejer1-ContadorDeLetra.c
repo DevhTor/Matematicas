@@ -1,7 +1,7 @@
 //Ejercicio 1
 // Hacer un programa que lea caracteres desde teclado hasta que lea  7 veces la letra
-//'p'.Por cada car·cter leÌdo que no sea una 'p' debe mostrar un mensaje indic·ndolo.
-//Cuando lea las 7 letras 'p' el programa terminar·.
+//'p'.Por cada car√°cter le√≠do que no sea una 'p' debe mostrar un mensaje indic√°ndolo.
+//Cuando lea las 7 letras 'p' el programa terminar√°.
 
 #include <stdio.h>
 

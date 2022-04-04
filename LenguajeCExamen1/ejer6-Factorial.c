@@ -1,5 +1,5 @@
-//6.Hacer un programa C que calcule el factorial de cualquier número x introducido por
-//teclado el programa deberá terminar cuando el número digitado sea cero 0.
+//6.Hacer un programa C que calcule el factorial de cualquier nÃºmero x introducido por
+//teclado el programa deberÃ¡ terminar cuando el nÃºmero digitado sea cero 0.
 
 #include <stdio.h>
 

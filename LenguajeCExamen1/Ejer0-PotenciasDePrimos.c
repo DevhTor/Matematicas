@@ -2,7 +2,7 @@
 /*
  *Ejercicio 0 
  *Programa que escriba en pantalla una tabla con cuadrados y cubos de todos
- *los números primos a partir de un número base hasta otro tope, ambos
+ *los nÃºmeros primos a partir de un nÃºmero base hasta otro tope, ambos
  *pedidos por teclado.
  */
 

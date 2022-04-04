@@ -1,6 +1,6 @@
 //Leer un punto(x, y) y  le de al usuario las siguientes opciones para calcular :
 //(utilizando switch - case)
-//si el punto est· sobre una circunferencia de radio 7 y centro en(0, 0)
+//si el punto est√° sobre una circunferencia de radio 7 y centro en(0, 0)
 //Si el punto pertenece a la recta que pasa por los puntos(1, 2) y(-2, -1)
 //salir
 

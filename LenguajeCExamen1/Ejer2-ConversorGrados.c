@@ -1,4 +1,4 @@
-//2.Escribir un programa que muestre el siguiente menú y que permita pasar
+//2.Escribir un programa que muestre el siguiente menÃº y que permita pasar
 //magnitudes de grados Celsius a grados Fahrenheit.
 //
 //Pasar de C.a F

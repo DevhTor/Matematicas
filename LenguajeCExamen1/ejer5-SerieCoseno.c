@@ -1,5 +1,5 @@
 //5.Hacer un programa en C para calcular la
-//Serie coseno(x) = 1-x^2 / 2! + x^4 / 4! - x^6 / 6! Hasta N términos
+//Serie coseno(x) = 1-x^2 / 2! + x^4 / 4! - x^6 / 6! Hasta N tÃ©rminos
 
 #include <stdio.h>
 #include <math.h>
